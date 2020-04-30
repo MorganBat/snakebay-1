@@ -68,3 +68,9 @@ gem "aws-sdk-s3", "~> 1.63"
 gem "devise", "~> 4.7"
 
 gem "stripe", "~> 5.21"
+
+gem "ultrahook", "~> 0.1.5"
+
+gem 'figaro'
+
+gem 'omniauth-facebook'
